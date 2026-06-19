@@ -31,6 +31,14 @@ The platform leverages **Large Language Models (LLMs)** to evaluate resumes, com
 
 ---
 
+# 🎥 Project Demo
+
+[![Watch Demo](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge)](https://youtu.be/gNZmAmHsIGc)
+
+📺 Click the button above to watch the full project demonstration.
+
+---
+
 # 🎯 Problem Statement
 
 Many job seekers struggle to answer important career questions:
