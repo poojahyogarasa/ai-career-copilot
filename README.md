@@ -149,34 +149,33 @@ Career Insights Dashboard
 
 ## Frontend
 
-- Next.js 15
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- ShadCN UI
-- Recharts
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge)
 
-## Backend & AI
+## AI & Backend
 
-- Next.js API Routes
-- Groq Cloud API
-- Llama 3.3 70B Versatile
+![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge)
+![Llama 3.3](https://img.shields.io/badge/Llama_3.3_70B-8A2BE2?style=for-the-badge)
+![Next.js API](https://img.shields.io/badge/Next.js_API_Routes-000000?style=for-the-badge&logo=nextdotjs)
 
 ## Resume Processing
 
-- PDF.js
-- Custom Resume Parser
+![PDF.js](https://img.shields.io/badge/PDF.js-B30B00?style=for-the-badge)
+![Resume Parser](https://img.shields.io/badge/Custom_Resume_Parser-0EA5E9?style=for-the-badge)
 
 ## State Management
 
-- React Context API
-- Local Storage
+![React Context API](https://img.shields.io/badge/React_Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Local Storage](https://img.shields.io/badge/Local_Storage-FFB300?style=for-the-badge)
 
 ## Development Tools
 
-- Git
-- GitHub
-- VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
